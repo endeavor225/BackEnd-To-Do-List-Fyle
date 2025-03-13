@@ -7,8 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<p align="center"><a href="http://siges-ci.com" target="_blank"><img src="https://siges-ci.com/assets/images/logo-siges.png" width="170" alt="Siges Logo"></a></p>
-
 ## Installation des dépendances
 
 ```bash
